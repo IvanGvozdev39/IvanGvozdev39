@@ -7,7 +7,7 @@
 
 Есть аккаунт разработчика Google Play, куда уже были выложены приложения EduScope и TrickTrack: https://play.google.com/store/apps/developer?id=Ivan+Gvozdev&hl=ru&gl=US
 
-**Стек**: JAVA / XML / KOTLIN / JETPACK COMPOSE / SQL / FIREBASE / REST API / KOTLIN COROUTINES / MVVM / MVC / CLEAN ARCHITECTURE / GRADLE
+**Стек**: JAVA / XML / KOTLIN / JETPACK COMPOSE / SQL (SQLITE) / FIREBASE / REST API / KOTLIN COROUTINES / MVVM / MVC / CLEAN ARCHITECTURE / GRADLE
 
 
 
